@@ -480,5 +480,9 @@
   "ZulipReader": {
     "id": "zulip",
     "author": "plurigrid"
+  },
+  "JSONDataReader": {
+    "id": "jsondata",
+    "author": "Josh-XT"
   }
 }
