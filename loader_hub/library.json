@@ -3,10 +3,6 @@
     "id": "asana",
     "author": "daveey"
   },
-  "AzCognitiveSearchReader": {
-    "id": "azcognitive_search",
-    "author": "mrcabellom"
-  },
   "GoogleDocsReader": {
     "id": "google_docs",
     "author": "jerryjliu"
@@ -52,6 +48,11 @@
       "receipt"
     ]
   },
+  "HubspotReader": {
+    "id": "hubspot",
+    "author": "ykhli",
+    "keywords": ["hubspot"]
+  },
   "EpubReader": {
     "id": "file/epub",
     "author": "Haowjy"
@@ -70,10 +71,6 @@
   },
   "AudioTranscriber": {
     "id": "file/audio",
-    "author": "ravi03071991"
-  },
-  "GladiaAudioTranscriber": {
-    "id": "file/audio_gladia",
     "author": "ravi03071991"
   },
   "SimpleCSVReader": {
@@ -138,6 +135,10 @@
   "SimpleMongoReader": {
     "id": "mongo",
     "author": "jerryjliu"
+  },
+  "SimpleCouchDBReader": {
+    "id": "couchdb",
+    "author": "technosophy"
   },
   "NotionPageReader": {
     "id": "notion",
@@ -470,5 +471,18 @@
   "MilvusReader": {
     "id": "milvus",
     "author": "filip-halt"
+  },
+  "StackoverflowReader": {
+    "id": "stackoverflow",
+    "author": "allen-munsch",
+    "keywords": [
+      "posts",
+      "questions",
+      "answers"
+    ]
+  },
+  "ZulipReader": {
+    "id": "zulip",
+    "author": "plurigrid"
   }
 }
