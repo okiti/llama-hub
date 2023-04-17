@@ -51,7 +51,9 @@
   "HubspotReader": {
     "id": "hubspot",
     "author": "ykhli",
-    "keywords": ["hubspot"]
+    "keywords": [
+      "hubspot"
+    ]
   },
   "EpubReader": {
     "id": "file/epub",
